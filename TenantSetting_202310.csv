@@ -1,0 +1,107 @@
+settingName,title,tenantSettingGroup,title_JP,tenantSettingGroup_JP
+AllowServicePrincipalsUseReadAdminAPIs,Allow service principals to use read-only admin APIs,Admin API settings,管理 API の設定,読み取り専用管理 API の使用をサービス プリンシパルに許可する
+AdminApisIncludeDetailedMetadata,Enhance admin APIs responses with detailed metadata,Admin API settings,管理 API の設定,詳細なメタデータを使用した管理 API 応答の強化
+AdminApisIncludeExpressions,Enhance admin APIs responses with DAX and mashup expressions,Admin API settings,管理 API の設定,DAX およびマッシュアップ式を使用した管理 API 応答の強化
+AllowAccessOverPrivateLinks,Azure Private Link,Advanced networking,高度なネットワーク,Azure Private Link
+BlockAccessFromPublicNetworks,Block Public Internet Access,Advanced networking,高度なネットワーク,パブリック インターネット アクセスのブロック
+UsageMetrics,Usage metrics for content creators,Audit and usage settings,監査と使用状況の設定,コンテンツ作成者用の使用状況メトリック
+UsageMetricsTrackUserLevelInfo,Per-user data in usage metrics for content creators,Audit and usage settings,監査と使用状況の設定,コンテンツ作成者用の使用状況メトリックのユーザーごとのデータ
+LogAnalyticsAttachForWorkspaceAdmins,Azure Log Analytics connections for workspace administrators,Audit and usage settings,監査と使用状況の設定,ワークスペース管理者の Azure Log Analytics 接続
+AutomatedInsightsTenant,Receive notifications for top insights (preview),Insights settings,分析情報の設定,上位の分析情報の通知を受信する (プレビュー)
+AutomatedInsightsEntryPoints,Show entry points for insights (preview),Insights settings,分析情報の設定,分析情報のエントリ ポイントを表示する (プレビュー)
+EnableAOAI,Users can use Copilot and other features powered by Azure OpenAI,Copilot and Azure OpenAI Service (preview)?,Copilot と Azure OpenAI Service (プレビュー),ユーザーは、Azure OpenAI に対応する Copilot やその他の機能を使用できます
+CDSAManagement,Create and use Gen1 dataflows,Gen1 dataflow settings,Gen1 データフローの設定,Gen1 データフローを作成して使用する
+TemplatePublish,Create template organizational content packs and apps,Content pack and app settings,コンテンツ パックおよびアプリの設定,テンプレートの組織のコンテンツ パックとアプリを作成する
+AppPush,Push apps to end users,Content pack and app settings,コンテンツ パックおよびアプリの設定,アプリをエンド ユーザーにプッシュする
+PublishContentPack,Publish content packs and apps to the entire organization,Content pack and app settings,コンテンツ パックおよびアプリの設定,コンテンツ パックとアプリを組織全体に発行する
+CustomVisualsTenant,Allow visuals created using the Power BI SDK,Power BI visuals,Power BI の視覚エフェクト,Power BI SDK を使用して作成された視覚エフェクトの許可
+CertifiedCustomVisualsTenant,Add and use certified visuals only (block uncertified),Power BI visuals,Power BI の視覚エフェクト,認定済みの視覚エフェクトのみの追加と使用 (未認定はブロック)
+AllowCVToExportDataToFileTenant,Allow downloads from custom visuals,Power BI visuals,Power BI の視覚エフェクト,カスタム ビジュアルからのダウンロードを許可する
+WebContentTilesTenant,Web content on dashboard tiles,Dashboard settings,ダッシュボードの設定,ダッシュボード タイル上の Web コンテンツ
+DatamartTenant,Create Datamarts (Preview),Datamart settings,データ マートの設定,データマートの作成 (プレビュー)
+WebModelingTenantSwitch,Users can edit data models in the Power BI service (preview),Data model settings,データ モデルの設定,ユーザーはPower BI サービスでデータ モデルを編集できます (プレビュー)
+BlockAutoDiscoverAndPackageRefresh,Block republish and disable package refresh,Dataset Security,データセット セキュリティ,再公開をブロックし、パッケージの更新を無効にする
+Embedding,Embed content in apps,Developer settings,開発者向け設定,アプリにコンテンツを埋め込む
+ServicePrincipalAccess,Allow service principals to use Power BI APIs,Developer settings,開発者向け設定,Power BI API の使用をサービス プリンシパルに許可
+AllowServicePrincipalsCreateAndUseProfiles,Allow service principals to create and use profiles,Developer settings,開発者向け設定,サービス プリンシパルによるプロファイルの作成と使用を許可する
+BlockResourceKeyAuthentication,Block ResourceKey Authentication,Developer settings,開発者向け設定,リソース キー認証のブロック
+DiscoverDatasetsSettingsPromoted,Make promoted content discoverable,Discovery settings,検出の設定,昇格したコンテンツを検出可能にする
+DiscoverDatasetsSettingsCertified,Make certified content discoverable ,Discovery settings,検出の設定,認定コンテンツを検出可能にする
+DiscoverDatasetsConsumption,Discover content,Discovery settings,検出の設定,コンテンツの検出
+AllowGuestUserToAccessSharedContent,Allow Azure Active Directory guest users to access Microsoft Fabric,Export and sharing settings,エクスポートと共有の設定,Azure Active Directory のゲスト ユーザーによる Microsoft Fabric へのアクセスを許可する
+ExternalSharingV2,Invite external users to your organization,Export and sharing settings,エクスポートと共有の設定,組織への外部ユーザーの招待
+ElevatedGuestsTenant,Allow Azure Active Directory guest users to edit and manage content in the organization,Export and sharing settings,エクスポートと共有の設定,Azure Active Directory のゲスト ユーザーによる組織内のコンテンツの編集および管理を許可する
+AllowGuestLookup,Show Azure Active Directory guests in lists of suggested people,Export and sharing settings,エクスポートと共有の設定,候補者のリストに Azure Active Directory のゲストを表示する
+PublishToWeb,Publish to web,Export and sharing settings,エクスポートと共有の設定,Web に公開
+ExportVisualImageTenant,Copy and paste visuals,Export and sharing settings,エクスポートと共有の設定,ビジュアルのコピーと貼り付け
+ExportToExcelSetting,Export to Excel,Export and sharing settings,エクスポートと共有の設定,Excel にエクスポート
+ExportToCsv,Export to .csv,Export and sharing settings,エクスポートと共有の設定,.csv へのエクスポート
+ExportReport,Download reports,Export and sharing settings,エクスポートと共有の設定,レポートのダウンロード
+LiveConnection,Users can work with datasets in Excel using a live connection,Export and sharing settings,エクスポートと共有の設定,ユーザーは、ライブ接続を使用して Excel でデータセットを操作できます
+ExportToPowerPoint,Export reports as PowerPoint presentations or PDF documents,Export and sharing settings,エクスポートと共有の設定,PowerPoint プレゼンテーションまたは PDF ドキュメントとしてレポートをエクスポート
+ExportToMHTML,Export reports as MHTML documents,Export and sharing settings,エクスポートと共有の設定,MHTML ドキュメントとしてレポートをエクスポート
+ExportToWord,Export reports as Word documents,Export and sharing settings,エクスポートと共有の設定,Word ドキュメントとしてレポートをエクスポート
+ExportToXML,Export reports as XML documents,Export and sharing settings,エクスポートと共有の設定,XML ドキュメントとしてレポートをエクスポート
+ExportToImage,Export reports as image files,Export and sharing settings,エクスポートと共有の設定,イメージ ファイルとしてレポートをエクスポート組織全体で無効
+Printing,Print dashboards and reports,Export and sharing settings,エクスポートと共有の設定,ダッシュボードとレポートを印刷する
+CertifyDatasets,Certification,Export and sharing settings,エクスポートと共有の設定,認定資格組織全体で無効
+EmailSubscriptionTenant,Users can set up email subscriptions,Export and sharing settings,エクスポートと共有の設定,ユーザーによるメール サブスクリプションの設定が可能
+EmailSubscriptionsToB2BUsers,B2B guest users can set up and be subscribed to email subscriptions,Export and sharing settings,エクスポートと共有の設定,B2B ゲスト ユーザーによるメール サブスクリプションの設定と登録が可能
+EmailSubscriptionsToExternalUsers,Users can send email subscriptions to external users,Export and sharing settings,エクスポートと共有の設定,ユーザーによる外部ユーザーへのメール サブスクリプションの送信が可能
+PromoteContent,Featured content,Export and sharing settings,エクスポートと共有の設定,おすすめコンテンツ
+EnableExcelYellowIntegration,Allow connections to featured tables,Export and sharing settings,エクスポートと共有の設定,特徴的なテーブルへの接続を許可
+ShareLinkToEntireOrg,Allow shareable links to grant access to everyone in your organization,Export and sharing settings,エクスポートと共有の設定,組織内の全ユーザーがアクセスできるようにするための共有可能なリンクを許可する
+ShareToTeamsTenant,Enable Microsoft Teams integration,Export and sharing settings,エクスポートと共有の設定,Microsoft Teams 統合を有効にする
+AutoInstallPowerBIAppInTeamsTenant,Install Power BI app for Microsoft Teams automatically,Export and sharing settings,エクスポートと共有の設定,Microsoft Teams に Power BI アプリを自動的にインストールする
+StorytellingTenant,Enable Power BI add-in for PowerPoint,Export and sharing settings,エクスポートと共有の設定,PowerPoint の Power BI アドインを有効にする
+AllowPowerBIASDQOnTenant,Allow DirectQuery connections to Power BI datasets,Export and sharing settings,エクスポートと共有の設定,Power BI データセットへの DirectQuery の接続を許可する
+ExternalDatasetSharingTenant,Guest users can work with shared datasets in their own tenants,Export and sharing settings,エクスポートと共有の設定,ゲスト ユーザーは自身のテナントで共有データセットを操作できます組織全体で無効
+EnableDatasetInPlaceSharing,Allow specific users to turn on external data sharing,Export and sharing settings,エクスポートと共有の設定,特定のユーザーが外部データ共有を有効にすることを許可する
+GitIntegrationTenantSwitch,Users can synchronize workspace items with their Git repositories (Preview),Git integration,Git 統合,ユーザーはワークスペース項目を Git リポジトリと同期できます (プレビュー)
+GitIntegrationCrossGeoTenantSwitch,Users can export items to Git repositories in other geographical locations (Preview),Git integration,Git 統合,ユーザーは、他の地理的な場所にある Git リポジトリに項目をエクスポートできます (プレビュー)
+GitIntegrationSensitivityLabelsTenantSwitch,Users can export workspace items with applied sensitivity labels to Git repositories (Preview),Git integration,Git 統合,ユーザーは、秘密度ラベルが適用されたワークスペース項目を Git リポジトリにエクスポートできます (プレビュー)
+PowerBIGoalsTenant,Create and use Metrics,Metrics settings,メトリクス設定,メトリックの作成と使用
+TenantSettingPublishGetHelpInfo,"Publish ""Get Help"" information",Help and support settings,ヘルプとサポートの設定,"""ヘルプの取得"" に関する情報の発行"
+EmailSecurityGroupsOnOutage,Receive email notifications for service outages or incidents,Help and support settings,ヘルプとサポートの設定,サービスの停止またはインシデントに関する電子メール通知を受け取る
+AllowFreeTrial,Users can try Microsoft Fabric paid features,Help and support settings,ヘルプとサポートの設定,Microsoft Fabricの有料機能を試すことができる
+AdminCustomDisclaimer,Show a custom message before publishing reports,Help and support settings,ヘルプとサポートの設定,レポートの発行前にカスタム メッセージを表示
+EimInformationProtectionEdit,Allow users to apply sensitivity labels for content,Information protection,Information protection,ユーザーによるコンテンツへの秘密度ラベルの適用を許可
+EimInformationProtectionDataSourceInheritanceSetting,Apply sensitivity labels from data sources to their data in Power BI,Information protection,Information protection,データ ソースから秘密度ラベルを Power BI のそのデータに適用する
+EimInformationProtectionDownstreamInheritanceSetting,Automatically apply sensitivity labels to downstream content,Information protection,Information protection,ダウンストリーム コンテンツに秘密度ラベルを自動的に適用する
+EimInformationProtectionWorkspaceAdminsOverrideAutomaticLabelsSetting,Allow workspace admins to override automatically applied sensitivity labels,Information protection,Information protection,ワークスペース管理者が自動的に適用された秘密度ラベルをオーバーライドすることを許可する
+BlockProtectedLabelSharingToEntireOrg,Restrict content with protected labels from being shared via link with everyone in your organization,Information protection,Information protection,保護されたラベルを持つコンテンツが、組織内の全ユーザーとリンクを介して共有されないように制限する
+OnPremAnalyzeInExcel,Allow XMLA endpoints and Analyze in Excel with on-premises datasets,Integration settings,統合の設定,"XMLA エンドポイントとオンプレミスのデータセットによる ""Excel で分析"" の許可"
+DatasetExecuteQueries,Dataset Execute Queries REST API,Integration settings,統合の設定,データセット実行クエリ REST API
+EsriVisual,Use ArcGIS Maps for Power BI,Integration settings,統合の設定,ArcGIS Maps for Power BI を使用する
+ArtifactSearchTenant,Use global search for Power BI,Integration settings,統合の設定,Power BI でグローバル検索を使用する
+AzureMap,Use Azure Maps visual,Integration settings,統合の設定,Azure Maps ビジュアルの使用
+BingMap,Map and filled map visuals,Integration settings,統合の設定,地図と塗り分け地図の画像
+VisualizeListInPowerBI,Integration with SharePoint and Microsoft Lists,Integration settings,統合の設定,SharePoint および Microsoft リストとの統合
+DremioSSO,Dremio SSO,Integration settings,統合の設定,Dremio SSO
+SnowflakeSSO,Snowflake SSO,Integration settings,統合の設定,Snowflake SSO
+RedshiftSSO,Redshift SSO,Integration settings,統合の設定,Redshift SSO
+GoogleBigQuerySSO,Google BigQuery SSO,Integration settings,統合の設定,Google BigQuery SSO
+OracleSSO,Oracle SSO,Integration settings,統合の設定,Oracle SSO
+AADSSOForGateway,Azure AD Single Sign-On (SSO) for Gateway,Integration settings,統合の設定,ゲートウェイ用の Azure AD シングルサインオン (SSO)
+PowerPlatformSolutionsIntegrationTenant,Power Platform Solutions Integration (Preview),Integration settings,統合の設定,Power Platform ソリューションの統合 (プレビュー)
+OneDriveSharePointViewerIntegrationTenantSetting,Users can view Power BI files saved in OneDrive and SharePoint (Preview),Integration settings,統合の設定,ユーザーは、OneDrive と SharePoint に保存されている Power BI ファイルを表示できる (プレビュー)
+OneDriveSharePointViewerIntegrationTenantSettingV2,Users can view Power BI files saved in OneDrive and SharePoint (Preview) - UPDATE,Integration settings,統合の設定,ユーザーは、OneDrive と SharePoint に保存されている Power BI ファイルを表示できる (プレビュー) - UPDATE新規
+OneDriveSharePointAllowSharingTenantSetting,Users can share links to Power BI files stored in OneDrive and SharePoint through Power BI Desktop,Integration settings,統合の設定,ユーザーは、OneDrive と SharePoint に保存されている Power BI ファイルへのリンクを Power BI Desktop を介して共有できます
+ODSPRefreshEnforcementTenantAllowAutomaticUpdate,Dataset owners can choose to automatically update datasets from files imported from OneDrive or SharePoint,Integration settings,統合の設定,データセットの所有者は、OneDrive または SharePoint からインポートされたファイルからデータセットを自動的に更新することを選択できます
+M365DataSharing,Users can see Microsoft Fabric metadata in Microsoft 365,Share data with your Microsoft 365 services,Microsoft 365 サービスでデータを共有する,ユーザーは、Microsoft 365 で Microsoft Fabric メタデータを表示できます
+DisplayProjectTridentUI,Users can create Fabric items (public preview),Microsoft Fabric (Preview),Microsoft Fabric (プレビュー),ユーザーは Fabric アイテムを作成できます (パブリック プレビュー)
+OneLakeForThirdParty,Users can access data stored in OneLake with apps external to Fabric,OneLake settings,OneLake の設定,ユーザーは、Fabric 外部のアプリを使用して OneLake の格納データにアクセスできます
+OneLakeFileExplorer,Users can sync data in OneLake with the OneLake File Explorer app,OneLake settings,OneLake の設定,ユーザーは OneLake のデータを OneLake エクスプローラー アプリと同期できます
+QnaFeedbackLoop,Review questions,Q&A settings,Q&A の設定,質問の確認
+QnaLsdlSharing,Synonym sharing,Q&A settings,Q&A の設定,類義語の共有
+EnableNLToDax,Allow quick measure suggestions (preview),Quick measure suggestions,クイックメジャーの提案,クイック メジャーの提案を許可する (プレビュー)
+AllowSendNLToDaxDataToOtherRegions,Allow user data to leave their geography,Quick measure suggestions,クイックメジャーの提案,ユーザー データが地域を離れられるようにする
+RScriptVisual,Interact with and share R and Python visuals,R and Python visuals settings,R ビジュアルと Python ビジュアルの設定,R ビジュアルと Python ビジュアルとの対話操作と共有
+QueryScaleOutTenant,Scale out queries for large datasets (Preview),Scale-out settings,スケールアウト設定,大規模なデータセットのスケールアウト クエリ (プレビュー)
+DevelopServiceApps,Publish template apps,Template app settings,テンプレート アプリの設定,テンプレート アプリの公開
+InstallServiceApps,Install template apps,Template app settings,テンプレート アプリの設定,テンプレート アプリのインストール
+InstallNonvalidatedTemplateApps,Install template apps not listed in AppSource,Template app settings,テンプレート アプリの設定,AppSource に含まれていないテンプレート アプリのインストール
+ExpFlightingTenant,Help Power BI optimize your experience,User experience experiments,ユーザー エクスペリエンス実験,Power BI でのエクスペリエンスの最適化を支援する
+CreateAppWorkspaces,Create workspaces (new workspace experience),Workspace settings,ワークスペースの設定,ワークスペースの作成 (新しいワークスペース エクスペリエンス)
+UseDatasetsAcrossWorkspaces,Use datasets across workspaces,Workspace settings,ワークスペースの設定,ワークスペースをまたいでデータセットを使用
+RestrictMyFolderCapacity,Block users from reassigning personal workspaces (My Workspace),Workspace settings,ワークスペースの設定,ユーザーによる個人用ワークスペースの再割り当てをブロックする (マイ ワークスペース)
