@@ -105,3 +105,4 @@ ExpFlightingTenant,Help Power BI optimize your experience,User experience experi
 CreateAppWorkspaces,Create workspaces (new workspace experience),Workspace settings,ワークスペースの設定,ワークスペースの作成 (新しいワークスペース エクスペリエンス)
 UseDatasetsAcrossWorkspaces,Use datasets across workspaces,Workspace settings,ワークスペースの設定,ワークスペースをまたいでデータセットを使用
 RestrictMyFolderCapacity,Block users from reassigning personal workspaces (My Workspace),Workspace settings,ワークスペースの設定,ユーザーによる個人用ワークスペースの再割り当てをブロックする (マイ ワークスペース)
+TridentPrivatePreview,Data Activator (preview),Microsoft Fabric (Preview),Microsoft Fabric (プレビュー),Data Activator (プレビュー)
